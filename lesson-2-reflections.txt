@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  When a repository is initialized, a hidden directory called `.git` is
+  created. The directory contains the necessary components and metadata to
+  track changes in the repository.
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  The staging area provides an intermediary step to the commit process. The
+  benefit of having such a middle phase is that when making changes to files
+  or how the working directory is organized, you don't have to worry about
+  only making changes that you want to commit right away or in a single
+  commit. You can make various changes and later organize them into logical
+  commits in the staging area.
