@@ -14,3 +14,11 @@ What value do you think it offers?
   only making changes that you want to commit right away or in a single
   commit. You can make various changes and later organize them into logical
   commits in the staging area.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+  All the files that have been changed do not need to be committed at the
+  time. Instead, they can be put into the staging area in whatever
+  combinations that make sense to bundle into a single commit.
