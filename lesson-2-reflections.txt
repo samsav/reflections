@@ -32,3 +32,10 @@ organized? How would branches help?
   without compromising the existing working code or adding new language
   localizations. Branches offer an easy way of keeping these versions separate
   and for switching between them.
+
+
+How do the diagrams help you visualize the branch structure?
+
+  Diagrams make the branching really concrete, and clearly
+  illustrates how separate branches are not connected only at
+  the branching point.
