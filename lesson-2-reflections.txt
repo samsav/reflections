@@ -22,3 +22,13 @@ change?
   All the files that have been changed do not need to be committed at the
   time. Instead, they can be put into the staging area in whatever
   combinations that make sense to bundle into a single commit.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  Branches are useful when there's a need to have multiple versions of the
+  same code available, whether it's for trying out experimental new features
+  without compromising the existing working code or adding new language
+  localizations. Branches offer an easy way of keeping these versions separate
+  and for switching between them.
