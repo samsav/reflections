@@ -47,3 +47,11 @@ What is the result of merging two branches together? Why do we represent it in t
   combined. The representation in the diagram makes it clear that two
   branches are developed separately, without affecting each other until
   they are merged together.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  A definite upside of automatic merging is its easiness and speed, but the
+  downside is a lack of control: the merged code might include some redundancy,
+  for example. The upside of merging manually is having complete control over
+  what ends up in the code, but it is laborious to do.
