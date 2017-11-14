@@ -39,3 +39,11 @@ How do the diagrams help you visualize the branch structure?
   Diagrams make the branching really concrete, and clearly
   illustrates how separate branches are not connected only at
   the branching point.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  When two branches are merged, the changes made in both branches are
+  combined. The representation in the diagram makes it clear that two
+  branches are developed separately, without affecting each other until
+  they are merged together.
