@@ -20,7 +20,7 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
   All the files that have been changed do not need to be committed at the
-  time. Instead, they can be put into the staging area in whatever
+  same time. Instead, they can be put into the staging area in whatever
   combinations that make sense to bundle into a single commit.
 
 
@@ -31,13 +31,13 @@ organized? How would branches help?
   same code available, whether it's for trying out experimental new features
   without compromising the existing working code or adding new language
   localizations. Branches offer an easy way of keeping these versions separate
-  and for switching between them.
+  and switching between them.
 
 
 How do the diagrams help you visualize the branch structure?
 
-  Diagrams make the branching really concrete, and clearly
-  illustrates how separate branches are not connected only at
+  Diagrams make the branching really concrete, clearly
+  illustrating how separate branches are not connected only at
   the branching point.
 
 
