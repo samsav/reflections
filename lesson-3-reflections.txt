@@ -31,3 +31,12 @@ What is the benefit of having a copy of the last known state of the remote store
   Having the last known state of the remote allows comparing that state to
   changes that have been made since that commit, either in the local repository
   or on the remote (depending on whether you're pushing or pulling).
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  One alternative would be to just direcly send any changed files to my
+  collaborators; this would in some sense be easier than pushing and pulling
+  Git commits. However, this quickly would make tracking changes and comparing
+  different versions vastly more difficult, or virtually impossible in larger
+  projects.
